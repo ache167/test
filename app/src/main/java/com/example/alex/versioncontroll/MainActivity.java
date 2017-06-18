@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         int i = 8;
         String u = "fantastic code";
+
+        //facebook is great!
     }
 }
